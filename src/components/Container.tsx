@@ -83,7 +83,7 @@ export default function Container(props: ContainerProps) {
   const router = useRouter();
   const meta = {
     title: "Lix",
-    description: `Full-stack website developer and TypeScript enthusiast.`,
+    description: `Software Engineer and Web Developer.`,
     image: "/assets/logo.webp",
     type: "website",
     ...customMeta,
