@@ -38,31 +38,31 @@ const projects = [
   {
     title: "FitFit",
     description: "A fitness IOS Application with gamelike new features",
-    image: "",
+    image: "../public/assets/503.mp4",
     href: "https://github.com/Likssss/fitness-app",
   },
   {
     title: "Invoice App",
     description: "A simple Invoice webapp",
-    image: "",
+    image: "../public/assets/503.mp4",
     href: "https://github.com/Likssss/invoice-app-lix",
   },
   {
     title: "E-Learning Website",
     description: "An E-Learning website with admin and user dashboards",
-    image: "",
+    image: "../public/assets/503.mp4",
     href: "https://github.com/Likssss/E-Learning-Website",
   },
   {
     title: "NomNom",
     description: "Recipe Finding IOS Application with Image Recognition",
-    image: "",
+    image: "../public/assets/503.mp4",
     href: "https://github.com/Likssss/nomnom",
   },
   {
     title: "This website",
     description: "My personal website",
-    image: "",
+    image: "../public/assets/503.mp4",
     href: "https://github.com/Likssss/portfolio",
   },
 ];
